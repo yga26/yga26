@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi 👋
+Hi, **my name is Yoga**. I'm a programmer. I like anime, manga and light novels.
 
-<!--
-**yga26/yga26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Technologies
+![Javascript](https://img.shields.io/badge/javascript-232530?style=for-the-badge&logo=javascript&logoColor=%23fafafa)
+![Typescript](https://img.shields.io/badge/Typescript-232530?style=for-the-badge&logo=typescript&logoColor=%23fafafa)
+![Nodejs](https://img.shields.io/badge/NodeJS-232530?style=for-the-badge&logo=node.js&logoColor=%23fafafa)
+![Rust](https://img.shields.io/badge/Rust-232530?style=for-the-badge&logo=rust&logoColor=%23fafafa)
+![C](https://img.shields.io/badge/C-232530?style=for-the-badge&logo=c&logoColor=%23fafafa)
+![Arch Linux](https://img.shields.io/badge/Arch-232530?style=for-the-badge&logo=archlinux&logoColor=%23fafafa)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+**Email** : yogykyn45@gmail.com
