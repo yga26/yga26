@@ -9,6 +9,3 @@ Hi, **my name is Yoga**. I'm a programmer. I like anime, manga and light novels.
 ![Go](https://img.shields.io/badge/Go-232530?style=for-the-badge&logo=go&logoColor=%23fafafa)
 ![C](https://img.shields.io/badge/C-232530?style=for-the-badge&logo=c&logoColor=%23fafafa)
 ![Arch Linux](https://img.shields.io/badge/Arch-232530?style=for-the-badge&logo=archlinux&logoColor=%23fafafa)
-
-### Contact
-**Email** : yogykyn45@gmail.com
