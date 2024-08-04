@@ -1,5 +1,5 @@
 ## Hi 👋
-Hi, **my name is Yoga**. I'm a programmer. I like anime, manga and light novels.
+Hi, **my name is Yoga**. i'm a programmer, I like creating interesting projects. I like anime, manga and light novels.
 
 ### Technologies
 ![Javascript](https://img.shields.io/badge/javascript-232530?style=for-the-badge&logo=javascript&logoColor=%23fafafa)
